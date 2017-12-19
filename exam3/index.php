@@ -61,7 +61,7 @@ function print_bottom($top,$count_diamond){
 }
     
     
-print_diamond('Z');
+print_diamond('E');
 
 
 ?>
